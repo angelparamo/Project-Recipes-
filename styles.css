@@ -8,17 +8,20 @@ body {
 
 h1 {
   text-align: center;
-  color: #8b0000;
+  color: #800080; 
 }
 
 p {
   text-align: center;
   margin: 10px 0;
+  line-height: 1.5; 
 }
 
 img {
   display: block;
   margin: 0 auto;
+  max-width: 100%; 
+  height: auto; 
 }
 
 ul {
@@ -36,4 +39,9 @@ a {
   text-decoration: none;
   color: #8b0000;
   font-weight: bold;
+  transition: color 0.3s ease;
+}
+
+a:hover {
+  color: #b22222; 
 }
