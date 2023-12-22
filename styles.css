@@ -9,26 +9,24 @@ body {
 
 .goofy-header {
   font-size: 50;
-
 }
-
 
 h1 {
   text-align: center;
-  color: #800080; 
+  color: #8A2BE2; /* Morado Brillante */
 }
 
 p {
   text-align: center;
   margin: 10px 0;
-  line-height: 1.5; 
+  line-height: 1.5;
 }
 
 img {
   display: block;
   margin: 0 auto;
-  max-width: 100%; 
-  height: auto; 
+  max-width: 100%;
+  height: auto;
 }
 
 ul {
@@ -44,11 +42,11 @@ li {
 
 a {
   text-decoration: none;
-  color: #8b0000;
+  color: #FFA500; /* Naranja Calabaza */
   font-weight: bold;
   transition: color 0.3s ease;
 }
 
 a:hover {
-  color: #b22222; 
+  color: #b22222;
 }
