@@ -33,6 +33,8 @@ img {
   margin: 0 auto;
   max-width: 100%;
   height: auto;
+  border: 5px solid #ff9204; /* Purple border */
+  border-radius: 10px; /* Optional: Rounded corners */
 }
 
 ul {
