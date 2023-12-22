@@ -1,7 +1,7 @@
 body {
   font-family: 'Arial', sans-serif;
   font-size: 22px;
-  background-color: #f5f5f5;
+  background-color: #291b00;
   margin: 0;
   padding: 0;
   color: #333;
@@ -13,11 +13,17 @@ body {
 
 h1 {
   text-align: center;
-  color: #8A2BE2; /* Morado Brillante */
+  color: #8A2BE2; 
+}
+
+h2 {
+  text-align: center;
+  color: #8A2BE2; 
 }
 
 p {
   text-align: center;
+  color: #fdfdfd;
   margin: 10px 0;
   line-height: 1.5;
 }
