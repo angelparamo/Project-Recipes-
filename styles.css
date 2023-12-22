@@ -7,6 +7,12 @@ body {
   color: #333;
 }
 
+.goofy-header {
+  font-size: 50;
+
+}
+
+
 h1 {
   text-align: center;
   color: #800080; 
