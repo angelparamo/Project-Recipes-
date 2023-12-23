@@ -8,7 +8,12 @@ body {
 }
 
 .goofy-header {
+  font-family: 'shlop-font', sans-serif; 
   font-size: 50;
+  font-size: 50;
+  background-color: #f3a200
+
+
 }
 
 h1 {
@@ -34,7 +39,7 @@ img {
   max-width: 100%;
   height: auto;
   border: 5px solid #ff9204; /* Purple border */
-  border-radius: 10px; /* Optional: Rounded corners */
+  border-radius: 10px; /* Rounded corners */
 }
 
 ul {
